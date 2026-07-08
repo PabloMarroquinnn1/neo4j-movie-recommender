@@ -1,7 +1,6 @@
 // ============================================================
 // Consulta 2: Peliculas que vieron los amigos de un usuario
 // pero que el usuario aun no ha visto
-// Pablo Alejandro Marroquin Cutz - 202200214
 // ============================================================
 // Como usar:
 // 1. Abrir Neo4j Browser en http://localhost:7474

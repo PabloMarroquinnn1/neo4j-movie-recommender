@@ -1,6 +1,5 @@
 // ============================================================
 // Consulta 3: Promedio de calificaciones de una pelicula
-// Pablo Alejandro Marroquin Cutz - 202200214
 // ============================================================
 // Como usar:
 // 1. Abrir Neo4j Browser en http://localhost:7474

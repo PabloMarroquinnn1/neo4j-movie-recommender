@@ -1,7 +1,6 @@
 // ============================================================
 // Consulta 5: Ruta mas corta entre dos usuarios
 // Grados de separacion en la red social
-// Pablo Alejandro Marroquin Cutz - 202200214
 // ============================================================
 // Como usar:
 // 1. Abrir Neo4j Browser en http://localhost:7474
