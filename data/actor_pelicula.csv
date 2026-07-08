@@ -1,0 +1,682 @@
+actor,titulo,personaje
+Felipe Alicia Frías,El ultimo viaje,El heroe
+Esteban Solano Soto,El ultimo viaje,El traidor
+Lucas Salvador Alonzo Jaimes,El ultimo viaje,La protagonista
+Nancy Ignacio Aguilera,Sombras del pasado,El villano
+Uriel Héctor Ávalos Carrillo,Sombras del pasado,El villano
+Mariana Andrea Montalvo Regalado,La gran aventura,La madre
+Sr(a). Lilia Becerra,La gran aventura,El heroe
+Alberto Susana Méndez Santiago,La gran aventura,El mentor
+Gabino Sáenz Garay,La gran aventura,El villano
+Zacarías Timoteo Vaca,La gran aventura,El mentor
+Sr(a). Hilda Ávalos,Codigo rojo,El mentor
+Rocío Helena Caldera Escalante,Codigo rojo,El heroe
+Jacobo Javier Zamudio,Codigo rojo,La madre
+Berta Ornelas Almaraz,Entre dos mundos,La detective
+Frida Beatriz Reyna,Entre dos mundos,El lider
+Silvano Óliver Granado,Entre dos mundos,El villano
+Mtro. Alta  Gracia Botello,Entre dos mundos,La protagonista
+Paola Sevilla Robles,Entre dos mundos,El heroe
+Raquel Elsa de Anda Pérez,El despertar,El cientifico
+Yuridia Girón Rojo,El despertar,El amigo
+Sofía Puente,La tormenta perfecta,El traidor
+Mtro. Bruno Cazares,La tormenta perfecta,El heroe
+Lic. Arturo Gamez,La tormenta perfecta,La detective
+Adán Vela,La tormenta perfecta,El amigo
+Esther Humberto Bétancourt,Mas alla del horizonte,El villano
+Patricia Estefanía Cadena Magaña,Mas alla del horizonte,El cientifico
+Diego Miriam Ballesteros,Mas alla del horizonte,El cientifico
+Irma Ureña,El secreto del lago,La protagonista
+Yuridia Escobar Casillas,El secreto del lago,El mentor
+Flavio de la Rosa,El secreto del lago,El traidor
+Juan Jaramillo,El secreto del lago,El traidor
+Salvador Ricardo Armas,Voces en la oscuridad,El villano
+Sr(a). Hilda Ávalos,Voces en la oscuridad,La madre
+Silvano Óliver Granado,Voces en la oscuridad,El amigo
+Indira Enrique Paz Lemus,El guardian eterno,El amigo
+Gabino Sáenz Garay,El guardian eterno,El villano
+Patricia Estefanía Cadena Magaña,La caida,La detective
+Salvador Ricardo Armas,La caida,El lider
+Adán Vela,La caida,El amigo
+Indira Enrique Paz Lemus,La caida,El traidor
+Mtro. Estela Báez,Tiempo prestado,El lider
+Dr. Lourdes Huerta,Tiempo prestado,El lider
+Sr(a). Abigail Almonte,Tiempo prestado,El cientifico
+Ing. Enrique Guevara,El ultimo testigo,El lider
+Patricia Estefanía Cadena Magaña,El ultimo testigo,El amigo
+Berta Ornelas Almaraz,El ultimo testigo,El lider
+María Eugenia Clara Medrano,Luz y oscuridad,La detective
+Aurora Miguel Ángel Carrero Colunga,Luz y oscuridad,El villano
+Yuridia Escobar Casillas,Luz y oscuridad,El amigo
+Miguel Rosario Barragán,El regreso,El traidor
+Sofía Puente,El regreso,El villano
+Gabino Sáenz Garay,El regreso,La protagonista
+Patricia Estefanía Cadena Magaña,El regreso,La detective
+Gabriel Teodoro Toledo,El regreso,El mentor
+Ing. Amelia Correa,La promesa rota,La madre
+Juan Jaramillo,La promesa rota,La madre
+Hugo Victoria Garica Rodrígez,La promesa rota,El cientifico
+Raquel Elsa de Anda Pérez,La promesa rota,La detective
+Uriel Héctor Ávalos Carrillo,En el limite,La protagonista
+María Eugenia Clara Medrano,En el limite,La protagonista
+Marcela Inés Zarate,En el limite,El villano
+Gabriela Israel Ayala Alcántar,En el limite,La madre
+Lic. Arturo Gamez,En el limite,El mentor
+Rocío Helena Caldera Escalante,El camino perdido,El amigo
+Carmen Pamela Dávila,El camino perdido,El heroe
+Flavio de la Rosa,El camino perdido,El heroe
+Gabriela Israel Ayala Alcántar,El camino perdido,El heroe
+Mtro. Estela Báez,La verdad oculta,La madre
+María Teresa Bermúdez,La verdad oculta,La detective
+Daniel Magdalena Galindo Partida,La verdad oculta,La detective
+Miguel Rosario Barragán,La verdad oculta,El heroe
+Cristina Cynthia Zavala Padilla,La verdad oculta,La madre
+Diego Miriam Ballesteros,Sin salida,El heroe
+Rosalia Nancy Flores,Sin salida,La madre
+Flavio de la Rosa,Sin salida,La detective
+Indira Enrique Paz Lemus,Sin salida,El cientifico
+Esteban Rojo Enríquez,Sin salida,La protagonista
+David Ulloa,El precio de la gloria,El heroe
+Esteban Solano Soto,El precio de la gloria,El mentor
+Jacobo Javier Zamudio,El precio de la gloria,El amigo
+Ing. Andrea Tapia,El precio de la gloria,La detective
+Claudia Naranjo,El precio de la gloria,El traidor
+Sr(a). María Eugenia Saldivar,Fragmentos,El traidor
+Sr(a). Abigail Almonte,Fragmentos,El amigo
+Gabriel Teodoro Toledo,La decision,El lider
+Esteban Rojo Enríquez,La decision,El amigo
+Miguel Rosario Barragán,El ultimo heroe,La madre
+Mtro. Bruno Cazares,El ultimo heroe,El heroe
+Dolores Vargas,Mas fuerte que el destino,La madre
+Mtro. Alta  Gracia Botello,Mas fuerte que el destino,La protagonista
+Ing. Enrique Guevara,Mas fuerte que el destino,La madre
+Rosalia Nancy Flores,Mas fuerte que el destino,La protagonista
+Gabriela Alcala Carranza,La noche infinita,El villano
+Rosario Arellano Portillo,La noche infinita,El villano
+Hugo Victoria Garica Rodrígez,La noche infinita,El amigo
+Socorro Arevalo Avilés,La noche infinita,La madre
+Cristina Cynthia Zavala Padilla,Origen,El cientifico
+Gabino Sáenz Garay,Origen,El heroe
+Cristina Cynthia Zavala Padilla,El peso del silencio,El amigo
+Lic. Martha Aguilera,El peso del silencio,El villano
+Sr(a). Hilda Ávalos,La frontera,La madre
+Alberto Susana Méndez Santiago,La frontera,El mentor
+Silvia Macías,La frontera,La detective
+Alta  Gracia Negrete Echeverría,Renacimiento,La protagonista
+Mtro. Salma Mondragón,Renacimiento,El mentor
+Jacobo Javier Zamudio,El eco del pasado,La madre
+Diego Miriam Ballesteros,El eco del pasado,La detective
+Esther Barbara Vera Escamilla,El eco del pasado,La protagonista
+María Teresa Bermúdez,La ultima oportunidad,El villano
+Adriana Agustín Lara,La ultima oportunidad,El villano
+Estela Catalina Páez,La ultima oportunidad,La detective
+Rosalia Rincón Ruelas,La ultima oportunidad,La madre
+Lic. Carmen Nava,La ultima oportunidad,El villano
+Irma Ureña,Sueños rotos,La madre
+Aurora Villagómez,Sueños rotos,El villano
+Gabriel Teodoro Toledo,El laberinto,La protagonista
+Indira Enrique Paz Lemus,El laberinto,El mentor
+Paola Sevilla Robles,El laberinto,El villano
+Alvaro Márquez,El laberinto,El mentor
+Claudia Naranjo,La batalla final,El villano
+Sofía Berta Cortez,La batalla final,El cientifico
+Silvano Óliver Granado,La batalla final,El lider
+Cristina Cynthia Zavala Padilla,Instinto,El amigo
+Sr(a). María Eugenia Saldivar,Instinto,El cientifico
+Gabriel Teodoro Toledo,Instinto,La detective
+Cristina Cynthia Zavala Padilla,El prisionero,El mentor
+Socorro Arevalo Avilés,El prisionero,El amigo
+Elisa Alfaro,El prisionero,El cientifico
+Irma Ureña,El prisionero,El traidor
+Aurora Villagómez,La sombra del mal,La protagonista
+Silvia Macías,La sombra del mal,El mentor
+Sr(a). María Eugenia Saldivar,La sombra del mal,El villano
+Eloisa Henríquez Gastélum,La sombra del mal,El heroe
+Mtro. Salma Mondragón,La sombra del mal,La protagonista
+Itzel Paz Luevano,Conexion fatal,El lider
+Mtro. Salma Mondragón,Conexion fatal,La protagonista
+Rafaél Gurule Benavides,Conexion fatal,El cientifico
+Gabriela Alcala Carranza,El elegido,El cientifico
+Sofía Puente,El elegido,La madre
+Gabriela Israel Ayala Alcántar,El elegido,El heroe
+Flavio de la Rosa,Mas alla del bien,La detective
+Rocío Helena Caldera Escalante,Mas alla del bien,El traidor
+Daniel Magdalena Galindo Partida,Mas alla del bien,La madre
+Gabriela Israel Ayala Alcántar,Mas alla del bien,El cientifico
+Cristian Jorge Ontiveros,La trampa,El villano
+Esteban Solano Soto,La trampa,El villano
+Estela Catalina Páez,La trampa,El villano
+Mariana Andrea Montalvo Regalado,El punto de quiebre,El traidor
+Dr. Francisca Lovato,El punto de quiebre,El heroe
+Dr. Elsa Corona,El punto de quiebre,El lider
+Ing. Amelia Correa,Sangre fria,La madre
+Juan Jaramillo,Sangre fria,El amigo
+María Teresa Bermúdez,El espejo roto,El heroe
+Aldo Granados,El espejo roto,El traidor
+Eloisa Henríquez Gastélum,El espejo roto,La madre
+Gabriel Teodoro Toledo,La redencion,El mentor
+Esther Barbara Vera Escamilla,La redencion,El lider
+Gabriela Alcala Carranza,Tierra de nadie,El villano
+Silvano Óliver Granado,Tierra de nadie,La detective
+Mtro. Alta  Gracia Botello,Tierra de nadie,El amigo
+Ariadna Alarcón,Tierra de nadie,La detective
+Esther Humberto Bétancourt,Tierra de nadie,El mentor
+Silvano Óliver Granado,El horizonte perdido,El heroe
+Juan Jaramillo,El horizonte perdido,El lider
+Irma Ureña,El horizonte perdido,El mentor
+Dr. Elsa Corona,El horizonte perdido,El villano
+Gabriela Alcala Carranza,La conspiración,El mentor
+Gloria Jáquez,La conspiración,El mentor
+Zacarías Timoteo Vaca,La conspiración,La protagonista
+Daniel Magdalena Galindo Partida,Doble identidad,El amigo
+Sr(a). Hilda Ávalos,Doble identidad,El heroe
+Patricia Estefanía Cadena Magaña,El umbral,El mentor
+Ing. Amelia Correa,El umbral,La madre
+Estela Catalina Páez,Fuera de control,El amigo
+Sr(a). Lilia Becerra,Fuera de control,La madre
+Dr. Lourdes Huerta,La señal,La detective
+Mtro. Salma Mondragón,La señal,La madre
+Aldo Granados,El ultimo acto,El lider
+Marisol Aranda,El ultimo acto,El amigo
+María Eugenia Clara Medrano,Tormenta de fuego,El cientifico
+Alvaro Marisol Flores,Tormenta de fuego,El lider
+Sr(a). María Eugenia Saldivar,Tormenta de fuego,La detective
+Mateo Martínez,La herencia maldita,El amigo
+Dolores Vargas,La herencia maldita,La detective
+Lic. Arturo Gamez,La herencia maldita,La protagonista
+Ing. Andrea Tapia,Punto ciego,La detective
+Mtro. Salma Mondragón,Punto ciego,La protagonista
+Dr. Elsa Corona,El cazador,El lider
+Sr(a). María Eugenia Saldivar,El cazador,El villano
+Sr(a). Abigail Almonte,El cazador,La madre
+Luisa Perea,La maldicion,La detective
+Ing. Andrea Tapia,La maldicion,El mentor
+María Teresa Bermúdez,La maldicion,La detective
+Rafaél Gurule Benavides,La maldicion,El villano
+Socorro Arevalo Avilés,La maldicion,El amigo
+Uriel Héctor Ávalos Carrillo,Sin rastro,El villano
+Esteban Solano Soto,Sin rastro,La madre
+Socorro Arevalo Avilés,El codigo olvidado,El heroe
+Cristina Cynthia Zavala Padilla,El codigo olvidado,El lider
+Indira Enrique Paz Lemus,El codigo olvidado,La detective
+Gloria Jáquez,La venganza,El traidor
+Irma Ureña,La venganza,La madre
+Carmen Pamela Dávila,La venganza,El mentor
+Rafaél Gurule Benavides,Oscuridad total,El villano
+Miguel Rosario Barragán,Oscuridad total,El villano
+Luisa Perea,El infiltrado,El villano
+Salvador Ricardo Armas,El infiltrado,El mentor
+Sr(a). Oswaldo Portillo,El infiltrado,La madre
+Gabino Sáenz Garay,El infiltrado,El lider
+Mtro. Estela Báez,La zona roja,El heroe
+Alvaro Marisol Flores,La zona roja,El lider
+Adela Lozano,La zona roja,El cientifico
+Sr(a). María Eugenia Saldivar,La zona roja,El lider
+Mtro. Alta  Gracia Botello,Colapso,El lider
+Sr(a). Oswaldo Portillo,Colapso,La madre
+Nancy Ignacio Aguilera,Colapso,El mentor
+Lucas Salvador Alonzo Jaimes,Colapso,El amigo
+David Ulloa,El testigo silencioso,La madre
+Irma Ureña,El testigo silencioso,El villano
+Magdalena Abreu,La fuga,El traidor
+Gloria Jáquez,La fuga,La protagonista
+Sr(a). Oswaldo Portillo,La fuga,El heroe
+Mtro. Salma Mondragón,Abismo,La madre
+Gabriel Teodoro Toledo,Abismo,La detective
+Gabriela Israel Ayala Alcántar,Abismo,El amigo
+Daniel Magdalena Galindo Partida,El oraculo,El mentor
+Aurora Villagómez,El oraculo,El villano
+Dolores Vargas,El oraculo,El amigo
+Alta  Gracia Negrete Echeverría,La marca del diablo,El villano
+Silvia Macías,La marca del diablo,El amigo
+Patricia Estefanía Cadena Magaña,Impacto,El mentor
+Esther Humberto Bétancourt,Impacto,El traidor
+Aurora Villagómez,Impacto,El lider
+Adela Lozano,Impacto,El traidor
+Sr(a). Hilda Ávalos,Impacto,La detective
+Alvaro Marisol Flores,El ultimo recurso,El lider
+Esteban Rojo Enríquez,El ultimo recurso,La protagonista
+Frida Beatriz Reyna,El ultimo recurso,La detective
+Magdalena Abreu,La pesadilla,El mentor
+Aldo Granados,La pesadilla,El villano
+Alvaro Márquez,La pesadilla,El cientifico
+Silvano Óliver Granado,La pesadilla,El traidor
+Marcela Inés Zarate,La pesadilla,El villano
+Sr(a). Abigail Almonte,Zona de guerra,El villano
+Esteban Solano Soto,Zona de guerra,El traidor
+Aurora Villagómez,El legado,El lider
+Gabriela Israel Ayala Alcántar,El legado,La madre
+Mateo Martínez,El legado,El cientifico
+Frida Beatriz Reyna,El legado,El lider
+Rosalia Nancy Flores,La trampa mortal,La madre
+Ing. Amelia Correa,La trampa mortal,La madre
+Rocío Helena Caldera Escalante,Detonacion,El cientifico
+Juan Jaramillo,Detonacion,El villano
+Clemente Candelaria,El tiempo se acaba,El cientifico
+Mtro. Salma Mondragón,El tiempo se acaba,La protagonista
+Mateo Martínez,El tiempo se acaba,La detective
+Dr. Francisca Lovato,El tiempo se acaba,El amigo
+Gabino Sáenz Garay,El tiempo se acaba,El amigo
+Alvaro Márquez,La oscuridad interior,El villano
+Miguel Rosario Barragán,La oscuridad interior,La protagonista
+Daniel Magdalena Galindo Partida,La oscuridad interior,El mentor
+Dr. Lourdes Huerta,La oscuridad interior,La protagonista
+Cristian Jorge Ontiveros,Furia imparable,El lider
+María Cristina Garica Quiñónez,Furia imparable,La detective
+Uriel Héctor Ávalos Carrillo,Furia imparable,El amigo
+Mtro. Barbara Almanza,Furia imparable,La protagonista
+Mtro. Alta  Gracia Botello,Furia imparable,La protagonista
+Gloria Jáquez,El punto final,La madre
+Carmen Pamela Dávila,El punto final,El villano
+Juan Jaramillo,El punto final,El traidor
+Lic. Carmen Nava,La amenaza,El traidor
+Uriel Héctor Ávalos Carrillo,La amenaza,El heroe
+Nancy Ignacio Aguilera,La amenaza,El amigo
+Cristian Jorge Ontiveros,La amenaza,El villano
+Estela Catalina Páez,La amenaza,El amigo
+Yuridia Girón Rojo,Sin identidad,El traidor
+Gustavo Roberto Zúñiga,Sin identidad,El amigo
+Hugo Victoria Garica Rodrígez,Sin identidad,La protagonista
+Jacobo Javier Zamudio,Sin identidad,El cientifico
+Yuridia Girón Rojo,El precio del poder,La protagonista
+Alberto Susana Méndez Santiago,El precio del poder,La madre
+Mtro. Salma Mondragón,El precio del poder,El cientifico
+María Teresa Bermúdez,El precio del poder,La protagonista
+Sofía Berta Cortez,La caida libre,La madre
+Alvaro Marisol Flores,La caida libre,La detective
+Gabriela Israel Ayala Alcántar,La caida libre,El heroe
+Lucas Salvador Alonzo Jaimes,Explosion,La madre
+Dr. Lourdes Huerta,Explosion,La protagonista
+Sr(a). Oswaldo Portillo,Explosion,El traidor
+Salvador Ricardo Armas,Explosion,El cientifico
+Dr. Verónica Rendón,Explosion,El cientifico
+Gloria Jáquez,El juego mortal,La detective
+Mtro. Estela Báez,El juego mortal,El villano
+Cristian Jorge Ontiveros,La red,El traidor
+Rosario Arellano Portillo,La red,El mentor
+Adán Vela,La red,El mentor
+Yuridia Girón Rojo,La red,El villano
+Rafaél Gurule Benavides,Bajo cero,El amigo
+Mtro. Alta  Gracia Botello,Bajo cero,El lider
+Esteban Rojo Enríquez,Bajo cero,La madre
+María Cristina Garica Quiñónez,Bajo cero,El villano
+Frida Beatriz Reyna,El silencio roto,El mentor
+Mtro. Salma Mondragón,El silencio roto,El amigo
+Gabino Sáenz Garay,El silencio roto,El lider
+Patricia Estefanía Cadena Magaña,El silencio roto,El mentor
+Mtro. Salma Mondragón,La ultima frontera,La detective
+Sr(a). Lilia Becerra,La ultima frontera,El villano
+Silvano Óliver Granado,Sombra y luz,El heroe
+Carmen Pamela Dávila,Sombra y luz,El traidor
+Aurora Villagómez,Sombra y luz,El heroe
+Irma Ureña,Sombra y luz,El amigo
+Paola Sevilla Robles,El destino marcado,La madre
+Sofía Puente,El destino marcado,La protagonista
+Lic. Carmen Nava,La fuerza del mal,El traidor
+Frida Beatriz Reyna,La fuerza del mal,El mentor
+Gloria Jáquez,La fuerza del mal,La protagonista
+Mariana Andrea Montalvo Regalado,La fuerza del mal,El cientifico
+Ing. Andrea Tapia,Colision,El villano
+Alberto Susana Méndez Santiago,Colision,El lider
+Alta  Gracia Negrete Echeverría,El guerrero,La detective
+Gloria Jáquez,El guerrero,La protagonista
+Sr(a). Oswaldo Portillo,La verdad prohibida,La detective
+Sr(a). Lilia Becerra,La verdad prohibida,El lider
+Raquel Elsa de Anda Pérez,Zona de peligro,La detective
+Rosalia Nancy Flores,Zona de peligro,El villano
+Clemente Candelaria,Zona de peligro,El mentor
+María Teresa Bermúdez,Zona de peligro,El lider
+Mtro. Bruno Cazares,El infierno verde,La detective
+Dr. Lourdes Huerta,El infierno verde,La protagonista
+Gabriel Teodoro Toledo,El infierno verde,El villano
+Itzel Paz Luevano,El infierno verde,El amigo
+Lic. Arturo Gamez,El infierno verde,El cientifico
+Felipe Alicia Frías,La persecucion,El heroe
+Aldo Granados,La persecucion,El villano
+Alvaro Marisol Flores,Torbellino,El cientifico
+Sr(a). Lilia Becerra,Torbellino,El cientifico
+Gabriel Teodoro Toledo,La segunda oportunidad,El traidor
+Dr. Elsa Corona,La segunda oportunidad,El villano
+Ing. Enrique Guevara,La segunda oportunidad,El villano
+Silvia Macías,Sin memoria,El villano
+Felipe Alicia Frías,Sin memoria,El cientifico
+Mariana Andrea Montalvo Regalado,Sin memoria,La protagonista
+Sr(a). Abigail Almonte,El proyecto secreto,El amigo
+Rosalia Rincón Ruelas,El proyecto secreto,El heroe
+Zacarías Timoteo Vaca,El proyecto secreto,El lider
+Carmen Pamela Dávila,El proyecto secreto,El lider
+Silvia Macías,La cadena rota,La madre
+Clemente Candelaria,La cadena rota,El lider
+Dolores Vargas,La cadena rota,La protagonista
+Nancy Ignacio Aguilera,Insurreccion,El amigo
+Ariadna Alarcón,Insurreccion,El cientifico
+Eloisa Henríquez Gastélum,Insurreccion,El villano
+Alfredo Lucas Flores Navarro,El ladrón de sueños,La detective
+Gloria Jáquez,El ladrón de sueños,El amigo
+Indira Enrique Paz Lemus,El ladrón de sueños,La protagonista
+Estela Catalina Páez,La profecia,El heroe
+Guillermo Gaitán,La profecia,La madre
+Uriel Héctor Ávalos Carrillo,La profecia,El lider
+Magdalena Abreu,La profecia,El lider
+Patricia Estefanía Cadena Magaña,Cero absoluto,El cientifico
+Yuridia Escobar Casillas,Cero absoluto,La madre
+Gabino Sáenz Garay,Cero absoluto,El cientifico
+Mariana Noelia Ontiveros,Cero absoluto,La protagonista
+Luisa Perea,Cero absoluto,El cientifico
+Dr. Verónica Rendón,El guardian,El amigo
+Carmen Pamela Dávila,El guardian,La detective
+Sr(a). Hilda Ávalos,El guardian,El traidor
+Marisol Aranda,El guardian,El cientifico
+Aldo Granados,El guardian,El amigo
+Ing. Enrique Guevara,La mente oscura,La detective
+Gabriela Israel Ayala Alcántar,La mente oscura,La madre
+Sr(a). Lilia Becerra,La mente oscura,El mentor
+Juan Jaramillo,La mente oscura,El cientifico
+Aurora Miguel Ángel Carrero Colunga,La mente oscura,El cientifico
+Patricia Estefanía Cadena Magaña,Desolacion,El amigo
+Sofía Puente,Desolacion,El heroe
+Dr. Lourdes Huerta,Desolacion,El villano
+Lic. Arturo Gamez,Desolacion,El amigo
+Marcela Inés Zarate,Desolacion,El amigo
+Itzel Paz Luevano,El ultimo comando,El mentor
+Rosario Arellano Portillo,El ultimo comando,El traidor
+Rafaél Gurule Benavides,El ultimo comando,El villano
+Ing. Andrea Tapia,El ultimo comando,El cientifico
+Dr. Lourdes Huerta,La isla perdida,La protagonista
+Gabino Sáenz Garay,La isla perdida,La madre
+Indira Enrique Paz Lemus,La isla perdida,El mentor
+Esther Barbara Vera Escamilla,La isla perdida,El cientifico
+Sr(a). Hilda Ávalos,Sin piedad,El traidor
+Lic. Martha Aguilera,Sin piedad,El traidor
+María Eugenia Clara Medrano,Sin piedad,La madre
+Yuridia Girón Rojo,Sin piedad,El heroe
+Gustavo Roberto Zúñiga,Sin piedad,La detective
+Mauricio Crespo Valles,El cruce,El villano
+Mtro. Estela Báez,El cruce,El traidor
+Ing. Amelia Correa,El cruce,El amigo
+Marisol Aranda,El cruce,El villano
+Daniel Magdalena Galindo Partida,El cruce,El cientifico
+Lic. Arturo Gamez,La tela de araña,El villano
+Elisa Alfaro,La tela de araña,El heroe
+Aldo Granados,La tela de araña,El heroe
+Marisol Aranda,Evasion total,El villano
+Clemente Candelaria,Evasion total,El mentor
+Alvaro Márquez,Evasion total,El cientifico
+Itzel Paz Luevano,Evasion total,El cientifico
+Daniel Magdalena Galindo Partida,El monstruo interior,El amigo
+Gloria Jáquez,El monstruo interior,El cientifico
+Miguel Rosario Barragán,El monstruo interior,El lider
+Dr. Elsa Corona,El monstruo interior,El traidor
+Cristina Cynthia Zavala Padilla,La guerra fria,La protagonista
+Silvano Óliver Granado,La guerra fria,El villano
+Sr(a). María Eugenia Saldivar,Punto de no retorno,El mentor
+Gabriela Alcala Carranza,Punto de no retorno,El traidor
+Sofía Puente,Punto de no retorno,El mentor
+Alberto Susana Méndez Santiago,Punto de no retorno,La protagonista
+Zacarías Timoteo Vaca,Punto de no retorno,El lider
+Silvano Óliver Granado,El enviado,El cientifico
+Silvia Macías,El enviado,El lider
+Alfredo Lucas Flores Navarro,La venganza perfecta,El lider
+Rafaél Gurule Benavides,La venganza perfecta,El amigo
+Yuridia Girón Rojo,La venganza perfecta,La detective
+Aldo Granados,La venganza perfecta,El heroe
+Rocío Helena Caldera Escalante,Caos total,El villano
+Aurora Miguel Ángel Carrero Colunga,Caos total,El villano
+Dr. Verónica Rendón,Caos total,El amigo
+Ing. Amelia Correa,Caos total,La detective
+Sr(a). María Eugenia Saldivar,Caos total,El mentor
+Uriel Héctor Ávalos Carrillo,El vigilante,El traidor
+Itzel Paz Luevano,El vigilante,El lider
+Esther Barbara Vera Escamilla,El vigilante,La detective
+Adela Lozano,El vigilante,El villano
+Estela Catalina Páez,El vigilante,El cientifico
+Mariana Andrea Montalvo Regalado,La clave perdida,El villano
+Mtro. Bruno Cazares,La clave perdida,El amigo
+Mateo Martínez,La clave perdida,El traidor
+Jacobo Javier Zamudio,Sin escape,La madre
+Nancy Ignacio Aguilera,Sin escape,La madre
+Sr(a). Hilda Ávalos,Sin escape,El heroe
+Rosalia Nancy Flores,Sin escape,La madre
+María Teresa Bermúdez,El vacio,La madre
+Daniel Magdalena Galindo Partida,El vacio,El traidor
+Adán Vela,El vacio,La protagonista
+Lic. César Meraz,El vacio,El cientifico
+Rosario Arellano Portillo,La sombra del pasado,El cientifico
+Gabriela Alcala Carranza,La sombra del pasado,La madre
+Diego Miriam Ballesteros,La sombra del pasado,El traidor
+Miguel Rosario Barragán,Colisión de mundos,El lider
+Silvano Óliver Granado,Colisión de mundos,El lider
+Berta Ornelas Almaraz,Colisión de mundos,El traidor
+Alvaro Márquez,Colisión de mundos,El villano
+Adriana Agustín Lara,El ultimo susurro,El traidor
+Marcela Inés Zarate,El ultimo susurro,El cientifico
+Esteban Solano Soto,El ultimo susurro,El traidor
+Paola Sevilla Robles,El ultimo susurro,El mentor
+Daniel Magdalena Galindo Partida,El ultimo susurro,El villano
+María Teresa Bermúdez,La bestia,El villano
+Alvaro Márquez,La bestia,El mentor
+María Eugenia Clara Medrano,Territorio enemigo,La madre
+Esther Barbara Vera Escamilla,Territorio enemigo,El lider
+Irma Ureña,Territorio enemigo,El traidor
+Dr. Francisca Lovato,El riesgo calculado,La madre
+Felipe Alicia Frías,El riesgo calculado,La protagonista
+Alfredo Lucas Flores Navarro,El riesgo calculado,La detective
+Ing. Amelia Correa,El riesgo calculado,La protagonista
+Dr. Lourdes Huerta,El riesgo calculado,La madre
+Esteban Rojo Enríquez,La oscuridad eterna,El amigo
+Ing. Amelia Correa,La oscuridad eterna,La madre
+Marcela Inés Zarate,La oscuridad eterna,El traidor
+Marisol Aranda,La oscuridad eterna,El villano
+Aurora Villagómez,La oscuridad eterna,El amigo
+Gabriel Teodoro Toledo,Fuga imposible,El heroe
+Sr(a). Lilia Becerra,Fuga imposible,La protagonista
+Rosario Arellano Portillo,Fuga imposible,El amigo
+Silvano Óliver Granado,Fuga imposible,El traidor
+Ing. Andrea Tapia,El precio de la verdad,El lider
+Cristian Jorge Ontiveros,El precio de la verdad,El villano
+Silvano Óliver Granado,La señal perdida,El amigo
+Mariana Andrea Montalvo Regalado,La señal perdida,La madre
+Flavio de la Rosa,Sin retorno,El heroe
+Marcela Inés Zarate,Sin retorno,El cientifico
+Sr(a). Abigail Almonte,Sin retorno,El heroe
+Dolores Vargas,Sin retorno,El traidor
+Rosalia Nancy Flores,Sin retorno,El cientifico
+Aldo Granados,El despertador,El cientifico
+Felipe Alicia Frías,El despertador,La protagonista
+Paola Sevilla Robles,El despertador,El mentor
+Daniel Magdalena Galindo Partida,El despertador,La detective
+Raquel Elsa de Anda Pérez,La alianza,El amigo
+Gabriela Israel Ayala Alcántar,La alianza,El heroe
+Hugo Victoria Garica Rodrígez,La alianza,El lider
+Sr(a). Oswaldo Portillo,Implosion,El cientifico
+Mtro. Estela Báez,Implosion,El heroe
+Sofía Puente,Implosion,El amigo
+Ing. Enrique Guevara,Implosion,El villano
+Adán Vela,El mensajero,El amigo
+Carmen Pamela Dávila,El mensajero,La protagonista
+Dr. Verónica Rendón,La rueda del destino,El traidor
+Clemente Rosado,La rueda del destino,El heroe
+Sr(a). Abigail Almonte,La rueda del destino,El lider
+Adriana Agustín Lara,La rueda del destino,La madre
+Gabriel Teodoro Toledo,Punto critico,El amigo
+Gabriela Alcala Carranza,Punto critico,El mentor
+Adela Lozano,Punto critico,La detective
+Mtro. Bruno Cazares,Punto critico,La madre
+Esteban Rojo Enríquez,El ultimo grito,El heroe
+Aurora Villagómez,El ultimo grito,El amigo
+Berta Ornelas Almaraz,La sombra del futuro,El lider
+Rafaél Gurule Benavides,La sombra del futuro,El heroe
+Esther Humberto Bétancourt,Sin fronteras,La detective
+Lic. Carmen Nava,Sin fronteras,El villano
+Gustavo Roberto Zúñiga,El error fatal,El heroe
+Esteban Solano Soto,El error fatal,La protagonista
+Uriel Héctor Ávalos Carrillo,El error fatal,El amigo
+Guillermo Gaitán,El error fatal,La protagonista
+Sr(a). Lilia Becerra,La noche de los lobos,El heroe
+Sr(a). María Eugenia Saldivar,La noche de los lobos,El cientifico
+Carmen Pamela Dávila,La noche de los lobos,La madre
+Ariadna Alarcón,La noche de los lobos,El traidor
+Lic. César Meraz,Zona prohibida,El heroe
+Indira Enrique Paz Lemus,Zona prohibida,El villano
+María Cristina Garica Quiñónez,El cazador de almas,El heroe
+Dr. Francisca Lovato,El cazador de almas,El amigo
+Mtro. Barbara Almanza,El cazador de almas,La detective
+Claudia Naranjo,La espiral,El amigo
+Uriel Héctor Ávalos Carrillo,La espiral,El lider
+María Teresa Bermúdez,La espiral,La madre
+Gabino Sáenz Garay,La espiral,El mentor
+Mtro. Barbara Almanza,La espiral,El cientifico
+Irma Ureña,Derrumbe,El heroe
+Luisa Perea,Derrumbe,El lider
+Mariana Andrea Montalvo Regalado,Derrumbe,El traidor
+Raquel Elsa de Anda Pérez,Derrumbe,La madre
+Mauricio Crespo Valles,El tercer ojo,La detective
+Mtro. Bruno Cazares,El tercer ojo,El cientifico
+Adela Lozano,El tercer ojo,El lider
+Hugo Victoria Garica Rodrígez,El tercer ojo,El heroe
+Rocío Helena Caldera Escalante,La ultima batalla,La detective
+Adriana Agustín Lara,La ultima batalla,El cientifico
+Gabriel Teodoro Toledo,La ultima batalla,La madre
+María Teresa Bermúdez,La ultima batalla,El heroe
+Hugo Victoria Garica Rodrígez,Sin cuartel,El traidor
+Lic. César Meraz,Sin cuartel,El cientifico
+Gabino Sáenz Garay,Sin cuartel,El mentor
+Adela Lozano,Sin cuartel,La protagonista
+Jacobo Javier Zamudio,Sin cuartel,El cientifico
+Alta  Gracia Negrete Echeverría,El abismo oscuro,La protagonista
+Alberto Susana Méndez Santiago,El abismo oscuro,La detective
+Ing. Andrea Tapia,La caja de pandora,La detective
+Indira Enrique Paz Lemus,La caja de pandora,El villano
+Irma Ureña,La caja de pandora,El amigo
+Mariana Andrea Montalvo Regalado,Golpe mortal,La detective
+Sr(a). Hilda Ávalos,Golpe mortal,El heroe
+Guillermo Gaitán,Golpe mortal,El cientifico
+Felipe Alicia Frías,Golpe mortal,La madre
+Irma Ureña,Golpe mortal,El heroe
+Ariadna Alarcón,El testamento,El lider
+Eloisa Henríquez Gastélum,El testamento,La madre
+Mtro. Salma Mondragón,La maquina del tiempo,La detective
+Sr(a). María Eugenia Saldivar,La maquina del tiempo,La detective
+Yuridia Girón Rojo,Sin salida aparente,El lider
+Mtro. Barbara Almanza,Sin salida aparente,El lider
+Estela Catalina Páez,Sin salida aparente,El amigo
+Uriel Héctor Ávalos Carrillo,Sin salida aparente,El traidor
+Patricia Estefanía Cadena Magaña,El poder oculto,El heroe
+Marisol Aranda,El poder oculto,El mentor
+Ing. Amelia Correa,El poder oculto,La detective
+Alfredo Lucas Flores Navarro,El poder oculto,El traidor
+Lic. Arturo Gamez,El poder oculto,El heroe
+Lic. Carmen Nava,La amenaza silenciosa,El heroe
+Carmen Pamela Dávila,La amenaza silenciosa,El amigo
+Alvaro Marisol Flores,La amenaza silenciosa,El traidor
+Rocío Helena Caldera Escalante,La amenaza silenciosa,El traidor
+Guillermo Gaitán,La amenaza silenciosa,El mentor
+Gabriela Israel Ayala Alcántar,Descenso,El traidor
+Lic. Arturo Gamez,Descenso,El amigo
+Sr(a). Abigail Almonte,El ultimo dia,El heroe
+Paola Sevilla Robles,El ultimo dia,El lider
+Rosario Arellano Portillo,El ultimo dia,El amigo
+Cristian Jorge Ontiveros,El ultimo dia,La madre
+Gabriela Alcala Carranza,La fuerza interior,La protagonista
+Dr. Lourdes Huerta,La fuerza interior,El heroe
+Guillermo Gaitán,La fuerza interior,El heroe
+Sr(a). Abigail Almonte,La fuerza interior,El villano
+Mtro. Estela Báez,Sin tregua,El traidor
+Aldo Granados,Sin tregua,El cientifico
+Aurora Villagómez,Sin tregua,El heroe
+Carmen Pamela Dávila,Sin tregua,El lider
+Estela Catalina Páez,El maestro del engano,El lider
+Rosario Arellano Portillo,El maestro del engano,El heroe
+Verónica Barbara Anaya Olivera,El maestro del engano,El mentor
+Sr(a). Oswaldo Portillo,La trampa final,La detective
+Alberto Susana Méndez Santiago,La trampa final,La detective
+Raquel Elsa de Anda Pérez,La trampa final,La protagonista
+Silvia Macías,La trampa final,La madre
+Alvaro Márquez,Combustion,El traidor
+Mariana Noelia Ontiveros,Combustion,El traidor
+Yuridia Girón Rojo,Combustion,El cientifico
+Cristina Cynthia Zavala Padilla,El observador,La protagonista
+Sr(a). Hilda Ávalos,El observador,La madre
+Eloisa Henríquez Gastélum,La red de mentiras,El amigo
+Esther Humberto Bétancourt,La red de mentiras,La detective
+Dr. Verónica Rendón,La red de mentiras,La detective
+Lic. Carmen Nava,Sin identidad conocida,El mentor
+Mariana Andrea Montalvo Regalado,Sin identidad conocida,El mentor
+Verónica Barbara Anaya Olivera,Sin identidad conocida,El villano
+Lic. César Meraz,El ultimo paso,El villano
+Dr. Elsa Corona,El ultimo paso,La detective
+Sr(a). Hilda Ávalos,El ultimo paso,La protagonista
+Gabriel Teodoro Toledo,La noche sin fin,La detective
+Sr(a). María Eugenia Saldivar,La noche sin fin,La detective
+Irma Ureña,La noche sin fin,El amigo
+Sr(a). Hilda Ávalos,Fractura,El amigo
+Dr. Lourdes Huerta,Fractura,La detective
+Clemente Rosado,Fractura,El cientifico
+Raquel Elsa de Anda Pérez,Fractura,El cientifico
+Cristina Cynthia Zavala Padilla,Fractura,El amigo
+Sofía Berta Cortez,El espiritu guerrero,El villano
+Claudia Naranjo,El espiritu guerrero,La madre
+Flavio de la Rosa,El espiritu guerrero,El traidor
+Gabriel Teodoro Toledo,El espiritu guerrero,El cientifico
+Mateo Martínez,La zona gris,El mentor
+Mtro. Alta  Gracia Botello,La zona gris,El villano
+Gabino Sáenz Garay,Sin piedad ni gloria,El heroe
+Rafaél Gurule Benavides,Sin piedad ni gloria,El cientifico
+Aldo Granados,Sin piedad ni gloria,El heroe
+Adán Vela,Sin piedad ni gloria,La madre
+Raquel Elsa de Anda Pérez,Sin piedad ni gloria,El amigo
+Socorro Arevalo Avilés,El codigo negro,La detective
+Guillermo Gaitán,El codigo negro,La detective
+Rosalia Nancy Flores,La ultima esperanza,El heroe
+Estela Catalina Páez,La ultima esperanza,El mentor
+Mtro. Barbara Almanza,La ultima esperanza,El villano
+Berta Ornelas Almaraz,Tormenta interior,El mentor
+Clemente Candelaria,Tormenta interior,El cientifico
+Marisol Aranda,Tormenta interior,La madre
+Salvador Ricardo Armas,Tormenta interior,La madre
+Sr(a). Hilda Ávalos,Tormenta interior,La detective
+Rafaél Gurule Benavides,El regreso del mal,El traidor
+Sr(a). Oswaldo Portillo,El regreso del mal,El lider
+Juan Jaramillo,La conexion,El villano
+Salvador Ricardo Armas,La conexion,La madre
+Ing. Amelia Correa,Sin nombre,El heroe
+Ing. Enrique Guevara,Sin nombre,El traidor
+Yuridia Girón Rojo,Sin nombre,El villano
+Esther Barbara Vera Escamilla,Sin nombre,El traidor
+Mtro. Bruno Cazares,El doble juego,El mentor
+Adriana Agustín Lara,El doble juego,El traidor
+Itzel Paz Luevano,El doble juego,El lider
+Sr(a). Lilia Becerra,El doble juego,El mentor
+Alberto Susana Méndez Santiago,La fuerza del destino,El cientifico
+María Cristina Garica Quiñónez,La fuerza del destino,El mentor
+Silvia Macías,La fuerza del destino,El cientifico
+Zacarías Timoteo Vaca,Impacto final,El mentor
+Eloisa Henríquez Gastélum,Impacto final,El villano
+Esther Barbara Vera Escamilla,Impacto final,El traidor
+Gabino Sáenz Garay,Impacto final,La detective
+Mtro. Bruno Cazares,El mundo al reves,La madre
+Luisa Perea,El mundo al reves,El cientifico
+Mariana Andrea Montalvo Regalado,El mundo al reves,El villano
+Mateo Martínez,La guerra de sombras,El cientifico
+Mariana Noelia Ontiveros,La guerra de sombras,La detective
+Esteban Solano Soto,La guerra de sombras,El mentor
+Alfredo Lucas Flores Navarro,Punto sin retorno,El heroe
+Verónica Barbara Anaya Olivera,Punto sin retorno,El traidor
+Mariana Andrea Montalvo Regalado,Punto sin retorno,La madre
+Cristina Cynthia Zavala Padilla,El espejo oscuro,El cientifico
+Paola Sevilla Robles,El espejo oscuro,El traidor
+Alfredo Lucas Flores Navarro,El espejo oscuro,El cientifico
+Gabriel Teodoro Toledo,El espejo oscuro,El lider
+Sr(a). Oswaldo Portillo,El espejo oscuro,El villano
+Sofía Berta Cortez,La voz del silencio,El mentor
+Lucas Salvador Alonzo Jaimes,La voz del silencio,El heroe
+Sr(a). María Eugenia Saldivar,La voz del silencio,El villano
+Esteban Rojo Enríquez,La voz del silencio,La madre
+Ing. Enrique Guevara,La voz del silencio,El cientifico
+Ariadna Alarcón,Sin limite,El lider
+Ing. Andrea Tapia,Sin limite,El traidor
+Gustavo Roberto Zúñiga,El cazador solitario,El amigo
+Sr(a). María Eugenia Saldivar,El cazador solitario,El cientifico
+Lic. César Meraz,El cazador solitario,La detective
+Lic. César Meraz,La herida abierta,El villano
+Mauricio Crespo Valles,La herida abierta,La detective
