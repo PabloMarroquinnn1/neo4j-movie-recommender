@@ -1,6 +1,5 @@
 // ============================================================
 // Consulta 6: Peliculas mas populares de un genero especifico
-// Pablo Alejandro Marroquin Cutz - 202200214
 // ============================================================
 // Como usar:
 // 1. Abrir Neo4j Browser en http://localhost:7474

@@ -1,7 +1,6 @@
 // ============================================================
 // Consulta 1: Peliculas calificadas por un usuario con
 // puntuacion mayor a 4
-// Pablo Alejandro Marroquin Cutz - 202200214
 // ============================================================
 // Como usar:
 // 1. Abrir Neo4j Browser en http://localhost:7474

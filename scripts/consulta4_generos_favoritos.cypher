@@ -1,7 +1,6 @@
 // ============================================================
 // Consulta 4: Generos favoritos de un usuario basados
 // en sus calificaciones
-// Pablo Alejandro Marroquin Cutz - 202200214
 // ============================================================
 // Como usar:
 // 1. Abrir Neo4j Browser en http://localhost:7474

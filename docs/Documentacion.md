@@ -1,16 +1,7 @@
 # Documentacion Tecnica: Sistema de Recomendacion de Peliculas
 ## Base de Datos de Grafos con Neo4j
 
-**Universidad San Carlos de Guatemala**
-**Facultad de Ingenieria — Ingenieria en Ciencias y Sistemas**
-**Sistemas de Bases de Datos 2 — Primer Semestre 2026**
-
-| Campo | Detalle |
-|---|---|
-| Estudiante | Pablo Alejandro Marroquin Cutz |
-| Carnet | 202200214 |
-| Proyecto | Proyecto 2 — RecomendaDB |
-| Fecha | Abril 2026 |
+**Autor:** Pablo Alejandro Marroquin Cutz
 
 ---
 
